@@ -1,0 +1,12 @@
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.pdb
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.dll.manifest
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\FirstExcelAddIn.vsto
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.csprojResolveAssemblyReference.cache
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.Properties.Resources.resources
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.csproj.GenerateResource.Cache
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.pdb
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\Debug\FirstExcelAddIn.MyRibbon.resources

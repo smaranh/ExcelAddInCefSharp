@@ -1,0 +1,16 @@
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\CefSharp.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\FirstExcelAddIn.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\FirstExcelAddIn.pdb
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\FirstExcelAddIn.dll.manifest
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\FirstExcelAddIn.vsto
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\CefSharp.Core.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\CefSharp.WinForms.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\bin\x64\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.csprojResolveAssemblyReference.cache
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.Form1.resources
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.MyRibbon.resources
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.Properties.Resources.resources
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.csproj.GenerateResource.Cache
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.dll
+D:\CEF\FirstExcelAddIn\FirstExcelAddIn\obj\x64\Debug\FirstExcelAddIn.pdb
